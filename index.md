@@ -7,7 +7,9 @@ Data Scientist
 
 <div id="webaddress">
 <a href="r.kowalczyk@outlook.com">r.kowalczyk@outlook.com</a>
-| <a href="www.linkedin.com/in/radoslawkowalczyk">My GitHub Page</a>
+| <a href="https://github.com/r-kowalczyk">My GitHub Page</a>
+| <a href="www.linkedin.com/in/radoslawkowalczyk">My LinkedIn Page</a>
+
 </div>
 
 
@@ -17,13 +19,12 @@ Data Scientist at the Spatial Data Unit, Department for Levelling Up, Housing an
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Developing NLP and LLM-powered solutions to public sector problems
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Natural language processing, large language models, predictive data analytics
 
 ## Education
 

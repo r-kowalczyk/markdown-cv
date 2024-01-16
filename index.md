@@ -1,19 +1,19 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Radoslaw Kowalczyk's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Radoslaw Kowalczyk
+Data Scientist
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="r.kowalczyk@outlook.com">r.kowalczyk@outlook.com</a>
+| <a href="www.linkedin.com/in/radoslawkowalczyk">My GitHub Page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Data Scientist at the Spatial Data Unit, Department for Levelling Up, Housing and Communities, HMG
 
 ### Specialized in
 

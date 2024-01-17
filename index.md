@@ -21,12 +21,24 @@ Data Scientist at the Spatial Data Unit, Department for Levelling Up, Housing an
 
 NLP and LLM-powered solutions to public sector problems
 
-
 ### Research interests
 
 Natural language processing (NLP), large language models (LLMs), predictive data analytics
 
-## Education
+## Work Experience
+
+`2022 - Present`
+__SEO Data Scientist, Department for Levelling Up, Housing & Communities, Spatial Data Unit__
+
+`2021 - 2022`
+__HEO Data Scientist, Department for Levelling Up, Housing & Communities, Resilience & Emergencies__
+
+`2020 - 2021`
+__EO Statisticin, Department for Levelling Up, Housing & Communities, Data, Analysis & Statistics__
+
+
+
+## Education & Research Experience
 
 `2017 - 2020`
 __University of Cambridge__
@@ -59,6 +71,6 @@ Centenary Prize for MRes Molecular Plant and Microbial Sciences (Imperial Colleg
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jan 2024 -->
 
 

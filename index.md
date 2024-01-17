@@ -15,7 +15,7 @@ Data Scientist
 
 ## Currently
 
-Data Scientist at the Spatial Data Unit, Department for Levelling Up, Housing and Communities, HMG
+Data Scientist at the Spatial Data Unit, Department for Levelling Up, Housing and Communities (DLUHC), HMG
 
 ### Specialised in
 
@@ -28,13 +28,14 @@ Natural language processing (NLP), large language models (LLMs), predictive data
 ## Work Experience
 
 `2022 - Present`
-__SEO Data Scientist, Department for Levelling Up, Housing & Communities, Spatial Data Unit__
+__SEO Data Scientist, Spatial Data Unit, DLUHC__
+
 
 `2021 - 2022`
-__HEO Data Scientist, Department for Levelling Up, Housing & Communities, Resilience & Emergencies__
+__HEO Data Scientist, Resilience & Emergencies, DLUHC__
 
 `2020 - 2021`
-__EO Statisticin, Department for Levelling Up, Housing & Communities, Data, Analysis & Statistics__
+__EO Statistician, Data, Analysis & Statistics, DLUHC__
 
 
 

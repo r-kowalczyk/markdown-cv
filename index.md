@@ -3,7 +3,6 @@ layout: cv
 title: Radoslaw Kowalczyk's CV
 ---
 # Radoslaw Kowalczyk
-
 Data Scientist
 
 <div id="webaddress">

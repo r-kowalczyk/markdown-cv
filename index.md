@@ -17,72 +17,44 @@ Data Scientist
 
 Data Scientist at the Spatial Data Unit, Department for Levelling Up, Housing and Communities, HMG
 
-### Specialized in
+### Specialised in
 
-Developing NLP and LLM-powered solutions to public sector problems
+NLP and LLM-powered solutions to public sector problems
 
 
 ### Research interests
 
-Natural language processing, large language models, predictive data analytics
+Natural language processing (NLP), large language models (LLMs), predictive data analytics
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017 - 2020`
+__University of Cambridge__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Master's degree (MPhil) in Biological Sciences (Molecular Plant-Microbe Interactions)
 
-- Sizar
+`2016 - 2017`
+__Imperial College London__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Master's degree (MRes) in Molecular Plant and Microbial Sciences (Distinction)
 
-- Fellow
+`2012 - 2016`
+__University of Manchester__
+
+- Bachelor's Degree in Plant Sciences with Industrial Experience (First)
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2017`
+Centenary Prize for MRes Molecular Plant and Microbial Sciences (Imperial College London)
 
 
 
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
 
 
 <!-- ### Footer
